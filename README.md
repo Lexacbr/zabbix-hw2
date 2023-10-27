@@ -20,6 +20,7 @@
 
 ![Dashboard](https://github.com/Lexacbr/zabbix-hw2/blob/main/screenshots/1-templ.png)
 
+![MemGraf](https://github.com/Lexacbr/zabbix-hw2/blob/main/screenshots/mem-local-ag.png)
 ---
 
 ### Задание 2
@@ -41,8 +42,6 @@
 
 ![Dashboard](https://github.com/Lexacbr/zabbix-hw2/blob/main/screenshots/last-data.png)
 
-![MemGraf](https://github.com/Lexacbr/zabbix-hw2/blob/main/screenshots/mem-local-ag.png)
-
 ---
 ### Задание 3
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
@@ -62,6 +61,7 @@
 ![Noitem](https://github.com/Lexacbr/zabbix-hw2/blob/main/screenshots/serv+2ag-noitem.png)
 
 ![With Item](https://github.com/Lexacbr/zabbix-hw2/blob/main/screenshots/serv+2ag-item.png)
+
 ---
 ### Задание 4
 Создайте свой кастомный дашборд.
