@@ -72,6 +72,7 @@
 ### Выполнение 4
 Чуть изменил существующую панель, добавив 2 графика
 
+![Dashboard](https://github.com/Lexacbr/zabbix-hw2/blob/main/screenshots/my-dash.png)
 
 ---
 
